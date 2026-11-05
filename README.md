@@ -5,7 +5,7 @@ Minhas skills de agentes (Claude Code, Codex, Antigravity, inclusive dentro do T
 ## Instalar num computador novo
 
 ```bash
-gh repo clone CodeVanzi/agent-skills ~/.agent-skills   # ou: git clone git@github.com:CodeVanzi/agent-skills.git ~/.agent-skills
+git clone https://github.com/CodeVanzi/agent-skills ~/.agent-skills
 ~/.agent-skills/install.sh
 ```
 
